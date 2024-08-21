@@ -1,14 +1,19 @@
 # Portfolio Project Microsoft PowerBi  
 
-
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_02.JPG?raw=true)
-
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_02.JPG?raw=true)
-
-
 The goal was to create a project with a use of parameters year and month to show the general sales situation in each of choosen month/year.
 
-The project is still in the development phase. Many of measueres were used only for testing and some of tabs (despite the ones which are below described) are still being in the process of developping.
+The project is still in the development phase. Many of measueres were used only for testing and some of tabs (despite the ones which are below described) are still being in the process of developing.
+
+View one.
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true)
+
+View two.
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_02.JPG?raw=true)
+
+
+
 
 ## General Layout
 - using new slicer with reference labels and details
