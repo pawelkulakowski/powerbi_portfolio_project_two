@@ -14,7 +14,7 @@ View Quantity
 
 View Transactions
 
-![alt text](ttps://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG?raw=true)
 
 ## General Layout
 - using new slicer with reference labels and details
