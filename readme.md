@@ -4,16 +4,17 @@ The goal was to create a project with a use of parameters year and month to show
 
 The project is still in the development phase. Many of measueres were used only for testing and some of tabs (despite the ones which are below described) are still being in the process of developing.
 
-View one.
+View Sales
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true)
 
-View two.
+View Quantity
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_02.JPG?raw=true)
 
+View Transactions
 
-
+![alt text](ttps://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG?raw=true)
 
 ## General Layout
 - using new slicer with reference labels and details
