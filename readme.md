@@ -44,3 +44,9 @@ The goal was to show all the data up to choosen current year and month
 - using bookmarks to change between total and cummulative graph
 - using line graph with analytics tool to show average 
 - using matrix with RANK() function and PARETO calculations on different levels - product category and product
+
+## Transactions Tab
+The goal was to show the monthly tranctions for choosen current year and all previous months in current year in relation to averages
+- creating a unique order id by combining the date of transaction, store id, customer id, transaction id in PowerQuery using concatenation and Text functions including PadStart to have constant number of digits in each order id
+- creating a horizontal bar chart with custom label placeholder and additional detail together with error bars
+- creating additional kpi's for transactions
