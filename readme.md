@@ -16,12 +16,17 @@ View Transactions
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG?raw=true)
 
+View Customers
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_04.JPG?raw=true)
+
 ## General Layout
 - using new slicer with reference labels and details
 - creating summarized tables for years and months to use them as parametres in the project
 - using bookmark navigator to show different selection of graphs depending on user interaction
 - using custom color pallette
 - using custom labels based on the month/year selection
+- creating relationship between slicers years/months to change the number of displayed months depends on the year (dataset is up to april 2019)
 
 ## KPI's
 The goal was to show KPI's for choosen current month/year
@@ -51,3 +56,9 @@ The goal was to show the monthly tranctions for choosen current year and all pre
 - creating a unique order id by combining the date of transaction, store id, customer id, transaction id in PowerQuery using concatenation and Text functions including PadStart to have constant number of digits in each order id
 - creating a horizontal bar chart with custom label placeholder and additional detail together with error bars
 - creating additional kpi's for transactions
+
+## Transactions Tab
+The goal was to show monthly proporition of customers among the shops
+- creating a horizontal bar chart to show number and percentage of customers among 3 shops
+- creating custom cards using new cards
+- creating three seperate measueres with KEEPFILTERS() in the CALCULATE() function
