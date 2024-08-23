@@ -57,7 +57,7 @@ The goal was to show the monthly tranctions for choosen current year and all pre
 - creating a horizontal bar chart with custom label placeholder and additional detail together with error bars
 - creating additional kpi's for transactions
 
-## Transactions Tab
+## Customers Tab
 The goal was to show monthly proporition of customers among the shops
 - creating a horizontal bar chart to show number and percentage of customers among 3 shops
 - creating custom cards using new cards
