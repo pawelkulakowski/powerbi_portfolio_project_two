@@ -546,7 +546,7 @@ customer_id,home_store,customer_first-name,customer_email,customer_since,loyalty
 545,3,Rhonda Mcguire,Garth@placerat.com,2018-05-23,294-150-5257,1981-06-30,F,1981
 546,3,Jillian Saunders,Carter@ullamcorper.gov,2018-05-25,128-485-2628,1981-08-15,F,1981
 547,3,Ora Shields,Otto@sem.com,2018-05-27,447-380-8212,1981-10-01,F,1981
-548,3,Raya Sanders,Carla@hymenaeos.edu,2018-05-29,878-481-9768,1981-11-16,F,1981
+548,3,Non-Member,Carla@hymenaeos.edu,2018-05-29,878-481-9768,1981-11-16,F,1981
 549,3,Tanisha Robinson,Rudyard@suscipit.com,2018-05-31,832-222-8038,1982-01-02,F,1982
 550,3,Mia Jensen,Ira@ante.com,2018-06-02,631-803-0191,1982-02-18,F,1982
 551,3,Yetta Simpson,Lara@nostra.com,2018-06-04,745-477-0952,1982-04-05,F,1982
@@ -1905,7 +1905,7 @@ customer_id,home_store,customer_first-name,customer_email,customer_since,loyalty
 8155,8,Kitra,Rylee@tellus.net,2017-01-30,911-024-6796,1987-03-12,F,1987
 8156,8,Hammett,Kalia@taciti.com,2017-06-02,726-725-2088,1989-07-01,Not Specified,1989
 8157,8,Walter,Roary@Pellentesque.us,2018-04-16,001-565-1409,1990-01-12,M,1990
-8158,8,Martina,Ashton@pede.net,2018-09-30,849-960-3026,1987-11-25,F,1987
+8158,8,Non-Member,Ashton@pede.net,2018-09-30,849-960-3026,1987-11-25,F,1987
 8159,8,Tanya,Beck@ad.us,2018-09-13,205-316-9428,1955-03-02,F,1955
 8160,8,Blossom,Tamekah@tincidunt.gov,2018-06-18,573-204-4474,1999-07-25,Not Specified,1999
 8161,8,Chanda,Cameron@nonummy.net,2017-08-13,475-345-9195,1995-07-04,Not Specified,1995
@@ -2088,7 +2088,7 @@ customer_id,home_store,customer_first-name,customer_email,customer_since,loyalty
 8338,8,Iona,Jemima@molestie.us,2019-02-06,275-617-1107,2000-06-25,F,2000
 8339,8,Raja,Scott@scelerisque.gov,2018-04-11,476-894-1098,1990-07-14,Not Specified,1990
 8340,8,Amal,Joy@aliquet.com,2017-05-05,071-202-2952,2000-04-23,Not Specified,2000
-8341,8,Ferdinand,Abel@pulvinar.gov,2017-06-08,238-448-5604,1973-02-22,M,1973
+8341,8,Non-Member,Abel@pulvinar.gov,2017-06-08,238-448-5604,1973-02-22,M,1973
 8342,8,Hammett,Brian@imperdiet.edu,2017-11-19,956-905-4885,1975-11-06,M,1975
 8343,8,Dante,Delilah@metus.us,2019-01-19,199-728-9836,1993-04-27,Not Specified,1993
 8344,8,Cecilia,Stewart@rutrum.com,2018-01-14,481-720-0690,1988-04-22,Not Specified,1988
@@ -2117,7 +2117,7 @@ customer_id,home_store,customer_first-name,customer_email,customer_since,loyalty
 8367,8,Arsenio,Bruce@facilisis.us,2018-08-05,372-814-9981,1987-08-13,M,1987
 8368,8,Nita,Ingrid@consequat.gov,2017-11-03,473-429-7696,1987-11-23,F,1987
 8369,8,Paula,Quamar@tempor.org,2018-05-22,111-321-3570,1989-10-21,F,1989
-8370,8,Maya,Lesley@cursus.com,2018-09-10,178-883-2525,1969-08-27,F,1969
+8370,8,Non-Member,Lesley@cursus.com,2018-09-10,178-883-2525,1969-08-27,F,1969
 8371,8,Serena,Gillian@taciti.us,2017-07-03,998-534-0478,1962-04-26,F,1962
 8372,8,Elton,Cain@Sed.gov,2017-01-21,190-630-7798,1997-10-14,M,1997
 8373,8,Jared,Mira@rutrum.com,2018-12-05,878-204-0249,1993-02-08,M,1993
@@ -2153,7 +2153,7 @@ customer_id,home_store,customer_first-name,customer_email,customer_since,loyalty
 8403,8,Daniel,Nolan@dolor.edu,2018-09-07,823-883-0511,1978-04-20,M,1978
 8404,8,Lillith,Merrill@In.net,2018-12-08,376-381-9382,1967-10-30,F,1967
 8405,8,Ruby,Mari@per.org,2018-01-04,785-775-1527,1969-11-29,F,1969
-8406,8,Dean,Avram@morbi.com,2017-01-16,335-545-3564,1966-03-31,M,1966
+8406,8,Non-Member,Avram@morbi.com,2017-01-16,335-545-3564,1966-03-31,M,1966
 8407,8,Eugenia,Carla@id.net,2018-10-13,096-523-8913,1980-09-11,F,1980
 8408,8,Leila,Drake@placerat.gov,2018-01-11,894-257-7766,1967-09-04,F,1967
 8409,8,Rachel,Lunea@lacus.net,2017-05-08,800-958-7428,1990-05-31,F,1990

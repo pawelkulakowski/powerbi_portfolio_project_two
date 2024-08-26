@@ -2,8 +2,6 @@
 
 The goal was to create a project with a use of parameters year and month to show the general sales situation in each of choosen month/year.
 
-The project is still in the development phase. Many of measueres were used only for testing and some of tabs (despite the ones which are below described) are still being in the process of developing.
-
 View Sales
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true)
@@ -19,6 +17,10 @@ View Transactions
 View Customers
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_04.JPG?raw=true)
+
+View Margin
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_05.JPG?raw=true)
 
 ## General Layout
 - using new slicer with reference labels and details
@@ -62,3 +64,9 @@ The goal was to show monthly proporition of customers among the shops
 - creating a horizontal bar chart to show number and percentage of customers among 3 shops
 - creating custom cards using new cards
 - creating three seperate measueres with KEEPFILTERS() in the CALCULATE() function
+
+## Margin
+The goal was to show monthly profit margin with highliting products with negative margins
+- updating the product lookup table with PANDAS (multiply cost by several factors to create more interesting graphs)
+- creating a horizontal bar chart to show with dummy data to enable two rows of labelling
+- creating a filter on the matrix to show only the products which have negative margin
