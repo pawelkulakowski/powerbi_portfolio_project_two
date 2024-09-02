@@ -1,6 +1,12 @@
-# Portfolio Project Microsoft PowerBi  
+# Portfolio Project Microsoft PowerBi  - Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard
 
-The goal was to create a project with a use of parameters year and month to show the general sales situation in each of choosen month/year.
+In a competitive market, increasing sales requires more than just a skilled team—it demands precise, data-driven management. One of the most effective ways to boost sales performance is by equipping your sales team with a comprehensive dashboard that tracks key performance indicators (KPIs). By focusing on metrics like monthly incoming orders, growth rates, trends across quantity, sales volume, number of transactions, customer count, and profit margin, you can transform raw data into actionable insights.
+
+A sales dashboard serves as a central hub for monitoring and analyzing these KPIs, providing a clear picture of your sales team's performance. By tracking monthly incoming orders and growth rates, you can quickly identify patterns and assess whether your strategies are driving the desired results. Trends in sales quantity and volume reveal shifts in customer behavior, helping you adapt to market changes. Monitoring the number of transactions and customers allows you to gauge engagement levels, while margin analysis ensures that growth is not just in sales but in profitability as well.
+
+Implementing such a dashboard enables your sales team to focus on what matters most—meeting and exceeding targets. With real-time data at their fingertips, they can make informed decisions, prioritize high-impact activities, and respond swiftly to opportunities and challenges.
+
+In conclusion, a sales performance dashboard is not just a tool; it's a strategic asset that can significantly enhance your team's effectiveness. By bringing key KPIs into focus, you'll empower your sales team to drive sustained growth, improve customer relationships, and maximize profitability.
 
 View Sales
 
